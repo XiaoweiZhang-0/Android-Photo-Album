@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/deletePhoto"
+        android:title="@string/delete_photo"/>
+    <item
+        android:id="@+id/movePhoto"
+        android:title="@string/move_photo"/>
+</menu>

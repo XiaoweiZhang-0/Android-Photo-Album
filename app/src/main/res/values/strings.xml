@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Photo_Album</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="delete_photo">Delete Photo</string>
+    <string name="move_photo">Move Photo</string>
+    <string name="slideshow">slideshow</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="delete_tag">Delete Tag</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+    <string name="todo8">TODO</string>
+    <string name="person_tag">Person Tag</string>
+    <string name="location_tag">Location Tag</string>
+    <string name="delete_album">Delete Album</string>
+    <string name="rename_album">rename album</string>
+</resources>
